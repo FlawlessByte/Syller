@@ -1,0 +1,63 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II 
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2011  Surveying I
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2019  Survey Practical I
+10 2009  Life Skill
+Semester 3
+1 3013  Theory of Structures I
+2 3012  Surveying II
+3 3011  Construction Materials and Engineering
+4 3001  Environmental Science & Disaster Management
+5 3014  Building Planning & Drawing
+6 3017  Survey Practical II
+7 3019  Construction Engg. Lab
+8 3018  Concrete Lab
+Semester 4
+1 4014  Theory of Structures II
+2 4013  Quantity Surveying I 
+3 4011  Hydraulics
+4 4012  Irrigation Engineering
+5 4019  Survey Practical III 
+6 4018  Hydraulics Lab
+7 4017  Computer Aided Drafting Lab
+8 4009-C  Mini Project
+Semester 5
+1 5012  Construction Management & Safety Engineering
+2 5015  Structural Design I
+3 5013  Geotechnical Engineering
+4 5014  Quantity Surveying II
+5 5011  Building Maintenance & Services
+# 5016  Cost Effective Construction & green Building
+# 5017  Habitat Technology
+6 5018  Geotechnical Engineering Lab 
+7 5019  Computer Application Lab 
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar 
+Semester 6
+1 6013  Structural Design II 
+2 6012  Environmental Engineering
+3 6014  Transportation Engineering
+4 6015  Concrete Technology
+# 6016  Design of Pre-stressed Concrete
+# 6017  Ground Improvement Technique
+5 6011  Structural & Irrigation Engineering Drawing
+6 6018  Material Testing Lab 
+7 6019  Environmental Engineering Lab 
+8 6009  Project & Seminar
+Semester 7

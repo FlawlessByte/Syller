@@ -1,0 +1,59 @@
+Semester 1
+1 1001  English for Communication I
+2 1143  Economics
+3 1142  Business Studies
+4 1141  Basic Accounting
+5 1144  Shorthand English Theory I
+6 2148-1  Word Processing I (Open office writer based)
+7 1009  Health & Physical Education
+8 1008  Computing Fundamentals
+Semester 2
+1 2001  English for Communication II
+2 2142  Hindi
+3 2144  Statstics
+4 2141  Accountancy II
+5 2143  Shorthand English Theory II
+6 2148-2  Word Processing I (Open office writer based)
+7 2149  Computer Application for Business
+8 2009  Life Skill
+Semester 3
+1 3142  English for Commercial Practice I
+2 3141  Accountancy III
+3 3001  Environmental Science & Disaster Management
+4 3143  Mercantile Law
+5 3144  Principles of Management
+6 3145  Shorthand English 60 wpm
+7 4147  Typewriting English 30 WPM
+8 4149  Word Processing II (MS Office Word Based)
+Semester 4
+1 4145  English for Commercial Practice II
+2 4141  Accountancy IV
+3 4144  E-Commerce
+4 4142  Auditing
+5 4143  Company Administration
+6 4146  Shorthand English 80 wpm
+7 4147  Typewriting English 30 WPM
+8 5145  Typewriting Malayalam
+9 4149  Word Processing II (MS Office Word Based)
+Semester 5
+1 5143  English for Commercial Practice III
+2 5141  Banking
+3 5142  Cost Accounting
+4 5144  Shorthand English (Condensation & Theory)
+5 5145  Typewriting Malayalam
+6 6145  Shorthand Malayalam 50 w.p.m.(Speed & Theory)
+7 5148  Computerised Financial Accounting-I 
+8 5149  Desktop Publishing
+9 5009  Industrial Training/Industrial Visit/Collaborative work
+10 6147  Project & Seminar
+Semester 6
+1 6142  Capital Market
+2 6141  Business Communication
+3 6144  Shorthand English 120 wpm (Speed & Theory)
+4 6143  Shorthand English 120 wpm (Elaboration)
+5 6145  Shorthand Malayalam 50 w.p.m.(Speed & Theory)
+6 6146  Typewriting English 45 wpm
+7 6148  Malayalam Word processing 
+8 6149  Computerized Financial Accounting - II
+9 6147  Project & Seminar
+Semester 7

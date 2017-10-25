@@ -1,0 +1,55 @@
+Semester 1
+1 1001  English for Communication I
+2 1143  Economics
+3 1142  Business Studies
+4 1251  Basic Accounting
+5 1252  Foundations in Science and Technology
+6 1259  Tally I
+7 1009  Health & Physical Education
+8 1008  Computing Fundamentals
+Semester 2
+1 2001  English for Communication II
+2 2254  Production/Operations Management
+3 2253  Cost Accounting
+4 2252  Business Mathematics
+5 2251  Basic Management Concepts
+6 2259  Tally II
+7 2009  Life Skill
+Semester 3
+1 3251  Enterpreneurship Development
+2 3143  Mercantile Law
+3 3253  Quantitative Techniques
+4 3252  Marketing Management
+5 3001  Environmental Science & Disaster Management
+6 3258  Office Automation Software
+7 3259  Basics of Computer Hardware & Networking
+Semester 4
+1 4254  Management Information System 
+2 4253  Human Resource Management
+3 4255  Relational Database Management System
+4 4251  Customer Relationship Management 
+5 4252  Financial Management
+6 4258  Relational Database Management System
+7 4259  Graphic Designing
+Semester 5
+1 5253  Retial Business Operations 
+2 5254  Visual Programming
+3 5252  Non-Banking Financial Operations 
+4 5256  Stores Management
+# 5255  Service Centre Management
+# 5257  Working Capital Management
+5 5251  Event Management
+6 5259  Visual Programming Lab 
+7 5009  Industrial Training/Industrial Visit/Collaborative work
+8 6009  Project & Seminar 
+Semester 6
+1 6252  E-Commerce and Cyber Banking
+2 6251  Business Communication
+3 6253  Supply Chain & Logistics Management
+4 6255  Banking & Insurance Management
+# 6254  Advertising and Salesmanship
+# 6256  Hospital Administration
+5 6258  Web Designing Lab
+6 6259  Supply Chain & Logistics Management
+7 6009  Project & Seminar
+Semester 7

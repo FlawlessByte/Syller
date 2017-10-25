@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I		
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2051  Automobile Power Plant
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2059  Automobile Servicing Lab I
+10 2009  Life Skill
+Semester 3
+1 3021  Electrical & Electronics Engg.
+2 3052  Production Process of Automobile Components
+3 3051  Fluid Mechanics & Machinery
+4 3001  Environmental Science & Disaster Management
+5 3024  Machine Drawing
+6 3059  Hydraulics Lab
+7 3057  Manufacturing Lab I
+8 3058  Petrol Engine Service Lab
+Semester 4
+1 4051  Applied Thermodynamics
+2 4053  Material Science & Strength of Materials
+3 4052  Automobile Electrical & Electronic Systems
+4 4055  Automobile Engineering Drawing
+5 4059  Two & Three Wheeler Service Lab & Mini Project
+6 4058  Manufacturing Lab II
+7 4056  Auto Electrical Lab
+8 4057  Diesel Engine Service Lab		
+Semester 5
+1 5001  Industrial Management & Safety
+2 5051  Automobile Design
+3 5052  Automobile Transmission
+4 5053  Fuels and Combustion
+# 5054  Special Purpose Vehicles
+# 5055  Automotive Air Conditioning
+5 5057  CAD Lab - I
+6 5059  Automobile Engineering Lab
+7 5058  Automobile Servicing Lab II
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar		
+Semester 6
+1 6053  Transport Management
+2 6052  Automobile Servicing & Maintenance
+3 6051  Automobile Chassis
+4 6025  Industrial Automation & Mechatronics
+# 6054  Advanced Automobile Engineering
+# 6055  Vehicle Body Repairing
+5 6058  Vehicle Testing Lab
+6 6059  CAD Lab II
+7 6009  Project & Seminar
+Semester 7

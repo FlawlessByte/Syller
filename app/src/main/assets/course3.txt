@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2071  Fundamentals of Chemical Engineering
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2079  Engineering Chemistry Lab
+10 2009  Life Skill C
+Semester 3
+1 3074  Polymer Technology
+2 3072  Fluid Mechanics
+3 3071  Chemical Process Principles
+4 3073  General Chemistry
+5 3001  Environmental Science & Disaster Management
+6 3078  General Chemistry Lab
+7 3079  CAD Lab
+8 3077  Maintenance Lab
+Semester 4
+1 4071  Environmental Engg.
+2 4073  Inorganic Chemical Technology
+3 4072  Heat Transfer & Evaporation
+4 4074  Petroleum & Energy Engineering
+5 4078  Fluid Mechanics Lab
+6 4077  Chemical CAD Lab
+7 4079  Polymer Lab
+8 4009  Mini Project
+Semester 5
+1 5001  Industrial Management & Safety
+2 5072  Organic Technology
+3 5071  Mass Transfer Operations I
+4 5073  Industrial Safety
+# 5074  Metallurgy & Materials of Construction
+# 5075  Paper Making Technology
+5 5079  Technical Analysis Lab
+6 5077  Environmental Engineering Lab
+7 5009  Industrial Training/Industrial Visit/Collaborative work
+8 5078  Heat Transfer Lab
+9 6009  Project & Seminar
+Semester 6
+1 6072  Mass Transfer Operations II
+2 6073  Particle Technology
+3 6071  Instrumentation & Process Control
+4 6074  Bio-chemical Engineering
+# 6075  Plan Utilities and Maintenance
+# 6076  Rubber Technology
+5 6078  Particle Technology Lab
+6 6079  Mass Transfer Lab
+7 6009  Project & Seminar
+Semester 7

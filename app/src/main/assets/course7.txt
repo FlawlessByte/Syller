@@ -1,0 +1,65 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2131  Programming in C
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2139  Programming in C Lab
+10 2009  Life Skill
+Semester 3
+1 3133  Digital Computer Principles
+2 3134  Objected Oriented Programming through C++
+3 3131  Computer Architecture
+4 3132  Database Management System
+5 3001  Environmental Science & Disaster Management
+6 3138  Digital Computer Principles Lab
+7 3137  Objected Oriented Programming Lab
+8 3139  Database Management System Lab
+Semester 4
+1 4132  Data Communication
+2 4134  Operating Systems
+3 4133  Data Structures
+4 4131  Computer System Hardware
+5 4139  System Administration Lab
+6 4138  Data Structures Lab
+7 4137  Computer System Hardware Lab
+8 4136  Application Development using Java
+Semester 5
+1 5132  Project Management & Software Engineering
+2 5133  Web Programming
+3 5131  Microprocessor and Interfacing
+4 5136  Information Security
+# 5135  Ethical Hacking
+# 5134  Cloud Computing
+5 5139  Web Programming Lab
+6 5138  Microprocessor Lab
+7 5009  Industrial Training/Industrial Visit/Collaborative work
+8 5137  Computer Network Engineering Lab
+9 6009  Project & Seminar
+Semester 6
+1 6132  Microcontrollers
+2 6131  Computer Networks
+3 6133  Smart Device Programming
+4 6134  Mobile Communication
+# 6135  Network Infrastructure Mangagement
+# 6136  Software Testing
+5 6139  Microcontroller Lab
+6 6138  Smart Device Programming Lab
+7 6009  Project & Seminar
+Semester 7
+		
+
+

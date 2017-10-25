@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2041  Basic Electronics
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2049  Basic Electronics Lab
+10 2009  Life Skill
+Semester 3
+1 3043  Electrical Technology
+2 3044  Electronic Devices & Circuits
+3 3042  Digital Electronics
+4 3241  Basic Medical Science
+5 3001  Environmental Science & Disaster Management
+6 3047  Electronics Circuits Lab
+7 3048  Digital Electronics Lab
+8 3249  PCB & Spice Lab
+Semester 4
+1 4042  Linear Integrated Circuits
+2 4241  Analytical & Diagnostic Equipments
+3 4043  Microcontroller and Interfacing
+4 4044  Programming in C
+5 4047  Linear Integrated Circuits Lab
+6 4048  Microcontroller & Interfacing Lab
+7 4049  Programming in C Lab
+8 4009  Mini Project
+Semester 5
+1 5001  Industrial Management & Safety
+2 5041  Embedded System
+3 5241  Therapeutic Equipments
+4 5242  Bio-Informatics
+# 5243  Biomaterials and Prosthetic Devices
+# 5244  Technology and Medical Science
+5 5249  Biomedical Instruments Lab
+6 5049  Embedded System Lab
+7 5248  Medical Electronics Lab
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar
+Semester 6
+1 6241  Communication Engineering 
+2 6243  Medical Imaging Techniques
+3 6242  Hospital Systems
+4 6044  Digital Signal Processing
+# 6244  Biomems and Nanotechnology
+# 6245  Biophotonics
+5 6249  Servicing and Maintenance Lab
+6 6049  Computer Hardware and Networking Lab
+7 6009  Project & Seminar
+Semester 7

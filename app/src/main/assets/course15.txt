@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I 
+3 1003  Engineering Physics I 
+4 1004  Engineering Chemistry I 
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practic
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II 
+3 2003  Engineering Physics II 
+4 2004  Engineering Chemistry II 
+5 2091  Fundamentals of Polymer Science
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2099  Polymer Science Lab
+10 2009  Life Skill
+Semester 3
+1 3092  Polymer Science
+2 3094  Technology of Elastomers
+3 3091  Natural Rubber Production
+4 3093  Synthetic Rubbers 
+5 3001  Environmental Science & Disaster Management
+6 3097  Rubber Technology Lab
+7 3098  Polymer Analysis Lab 
+8 3099  Compound Design Lab 
+Semester 4
+1 4094  Rubber Products
+2 4092  Latex Technology
+3 4093  Polymer Processing & Machinery
+4 4091  Descriptive Engineering
+5 4099  Rubber Products Lab
+6 4098  Latex Technology Lab
+7 4097  Electrical Engineering Lab
+8 4009  Mini Project
+Semester 5
+1 5001  Industrial Management & Safety
+2 5092  Plastic Technology
+3 5091  Fibers and Composites 
+4 5094  Injection Mould Design
+# 5093  Chemical Engineering
+# 5095  Process Control & Instrumentation
+5 5098  Latex Products Lab 
+6 5097  Polymer Machinery & CAD Lab
+7 5099  Composite Lab
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar 
+Semester 6
+1 6093  Tyre Technology
+2 6091  Plastic Products
+3 6092  Quality Assurance and Testing
+4 6096  Speciality Polymers
+# 6094  Plants & Surface Coatings
+# 6095  Polymer Adhesives
+5 6099  Products Testing Lab 
+6 6098  Quality Assurance Lab 
+7 6009  Project & Seminar 
+Semester 7

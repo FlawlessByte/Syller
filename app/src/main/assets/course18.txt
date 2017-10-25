@@ -1,0 +1,59 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2111  Production Engineering I
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2119  Tool Engineering Lab I
+10 2009  Life Skill
+Semester 3
+1 3022  Fluid Mechanics & Pneumatics
+2 3021  Electrical & Electronics Engg.
+3 3111  Engineering Metrology
+4 3001  Environmental Science & Disaster Management
+5 3112  Tool Engineering Drawing
+6 3119  Metrology Lab
+7 3118  Tool Engineering Lab II
+8 3117  Workshop Practice III
+Semester 4
+1 4112  Moulds & Dies Technology
+2 4111  Material Technology & Heat Treatment
+3 4021  Applied Mechanics and Strength of Materials
+4 4113  Production Engineering II
+5 4119  Tool Engineering Lab III
+6 4118  Moulds & Dies & Heat Treatment Lab
+7 4028  Material Testing Lab 
+8 4117  CADD Lab
+Semester 5
+1 5001  Industrial Management & Safety
+2 5022  Industrial Engineering 
+3 5111  Press Tool Technology
+4 5112  Design Jigs, Fixtures and Gauges
+# 5113  Plastic Moulding Technology
+5 5119  Moulds & Dies Drawing
+6 5118  Press Tool Drawing 
+7 5117  Press Tool Lab 
+8 6009  Project & Seminar 
+Semester 6
+1 6111  Modern Production Process 
+2 6112  Tool Design
+3 6024  CAD-CAM
+# 6025  Industrial Automation & Mechatronics
+4 6117  Computer Aided Press Tool Drawing Lab
+5 6118  Tool Engineering Lab III
+6 6009  Project & Seminar 
+7 6119  Inplant Training
+Semester 7

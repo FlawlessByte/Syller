@@ -1,0 +1,63 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I 
+3 1003  Engineering Physics I 
+4 1004  Engineering Chemistry I 
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II 
+3 2003  Engineering Physics II 
+4 2004  Engineering Chemistry II 
+5 2021  Basic Mechanical Engineering
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2029  Basic Mechanical Engineering Lab
+10 2009  Life Skill
+Semester 3
+1 3021  Electrical & Electronics Engg.
+2 3023  Manufacturing Process
+3 3022  Fluid Mechanics & Pneumatics
+4 3001  Environmental Science & Disaster Management
+5 3024  Machine Drawing
+6 3027  Workshop Practice III
+7 3029  Fluid Mechanics Lab
+8 3028  Electrical Technology Lab
+Semester 4
+1 4023  Metullurgy & Machine Tools
+2 4022  Automobile Engineering
+3 4021  Applied Mechanics and Strength of Materials
+4 4024  Thermal Engineering
+5 4026  Production Drawing
+6 4029  Workshop Practice IV & Mini Project
+7 4028  Material Testing Lab 
+8 4027  Heat Engines Lab
+Semester 5
+1 5001  Industrial Management & Safety
+2 5021  Design of Machine Elements
+3 5022  Industrial Engineering
+4 5023  Power Plant Engineering
+# 5024  Alternate Energy Sources and Management
+# 5025  Material Handling
+5 5028  Industrial Maintenance and Servicing Laboratory
+6 5029  Machine Shop Practice 
+7 5027  CADD Lab I 
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar 
+Semester 6
+1 6022  Hydraulic Machines
+2 6021  Advanced Production Processes 
+3 6023  Refrigeration & Air Conditioning
+4 6025  Industrial Automation & Mechatronics
+# 6024  CAD-CAM
+# 6026  Maintenance Engineering
+5 6028  CADD Lab II 
+6 6029  Advanced Machine Tool Laboratory
+7 6027  Hydraulic Machines and Fluid Power Lab
+8 6009  Project & Seminar 
+Semester 7

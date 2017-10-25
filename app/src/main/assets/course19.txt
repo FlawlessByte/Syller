@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II 
+5 2121  Botany and Anatomical Structures
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2129  Botany Lab
+10 2009  Life Skill
+Semester 3
+1 3121  Mechanical & Electrical Engineering
+2 3123  Wood Processing
+3 3124  Wood Chemistry
+4 3122  Pulp Technology
+5 3001  Environmental Science & Disaster Management
+6 3128  Wood Chemistry Lab
+7 3129  Pulp Technology Lab
+8 3127  Workshop Practice
+Semester 4
+1 4123  Wood Products I
+2 4121  Chemical Engineering
+3 4122  Paper Technology
+4 4021  Applied Mechanics and Strength of Materials
+5 4128  Paper & Environmental Lab
+6 4127  Electrical & Material Testing Lab
+7 4129  Wood Workshop I
+8 4009  Mini Project
+Semester 5
+1 5001  Industrial Management & Safety
+2 5121  Interior Design Engineering 
+3 5122  Wood Products II 
+4 5123  Paper Board & Speciality Paper
+# 5124  Production Management 
+# 5125  Statstical Quality Assurance
+5 5129  CADD Lab
+6 5127  Wood Workshop II 
+7 5128  Furniture Production Lab 
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar 
+Semester 6
+1 6122  Furniture Technology
+2 6121  Adhesive Technology
+3 6123  Wood Products III 
+4 6124  Process Control & Instrumentation
+# 6125  Quanity Surveying
+# 6126  Timber Structures
+5 6129  Advanced CADD Lab 
+6 6128  Advanced Wood Workshop 
+7 6009  Project & Seminar 
+Semester 7

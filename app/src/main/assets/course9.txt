@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2031  Basic Electrical Engineering
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2039  Basic Electrical Engineering Workshop
+10 2009  Life Skill
+Semester 3
+1 3032  Electrical Measuring Instruments
+2 3031  Analog Devices & Circuits
+3 3033  Fundamentals of AC Systems
+4 3034  Mechanical Engineering
+5 3001  Environmental Science & Disaster Management
+6 3039  Electrical Measurements Lab
+7 3037  Electrical Workshop Practice
+8 3038  Mechanical Engineering Lab
+Semester 4
+1 4034  Electric Power Generation, Transmission & Distribution
+2 4033  Electrical Estimating and Costing
+3 4031  DC Machines
+4 4032  Digital Electronics & Microprocessors
+5 4037  Electrical Engineering Drawing
+6 4039  DC Machines Lab
+7 4038  Electrical Computer Aided Drafting Lab
+8 4036  Industrial Electrical Engineering Lab
+9 4009  Mini Project
+Semester 5
+1 5001  Industrial Management & Safety
+2 5031  Induction Machines
+3 5032  Power Electronics
+4 5035  Renewable Energy Sources
+# 5033  Advanced Electrical Measurements & Instrumentation
+# 5034  Electrical Engineering Materials
+5 5039  A C Machines Lab I
+6 5038  Electronics Lab
+7 5009  Industrial Training/Industrial Visit/Collaborative work
+8 6009  Project & Seminar 
+Semester 6
+1 6033  Synchronous Machines & FHP Motors
+2 6031  Electrical Power Utilization & System Protection
+3 6032  Microcontrollers and Programmable logic Ceontrollers
+4 6034  Electrical Devices & Controls
+# 6035  Electrical Machine Design
+# 6036  Industrial Automation
+5 6038  Industrial Automation Lab 
+6 6039  A C Machines Lab II
+7 6009  Project & Seminar 
+Semester 7

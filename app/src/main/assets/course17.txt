@@ -1,0 +1,62 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2061  Textile Fibers
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2069  Machine Shop
+10 2009  Life Skill
+Semester 3
+1 3064  Yarn Formation I
+2 3062  Fabric Formation I
+3 3061  Design and Structure of Fabrics
+4 3063  Textile Wet Processing I
+5 3001  Environmental Science & Disaster Management
+6 3067  Yarn Formation I Practical
+7 3069  Fabric Formation I Practical
+8 3068  Textile Wet Processing I Practical
+Semester 4
+1 4064  Yarn Formation II
+2 4061  Fabric Formation II
+3 4063  Textile Wet Processing II
+4 4062  Textile Testing & Quality Assurance
+5 4009  Mini Project
+6 4069  Yarn Formation II Practical
+7 4067  Fabric Formation II Practical
+8 4068  Textile Wet Processing II Practical
+Semester 5
+1 5001  Industrial Management & Safety
+2 5062  Yarn Formation III 
+3 5061  Fabric Formation III 
+4 5065  Technical Textiles
+# 5063  Process Control
+# 5064  Statistical Quality Assurance in Textiles
+5 5067  Fabric Formation III Practical
+6 5068  Textile Testing & Quality
+7 5069  Yarn Formation III Practical Assuarance I Practical
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar 
+Semester 6
+1 6063  Manmade Fibers
+2 6062  Knitting and Non Woven Fabrics
+3 6061  Fashion Design & Apparel Manufacture
+4 6065  Textile Marketing & Merchandising
+# 6066  Textile Mill Management
+# 6064  Maintenance of Textile Machineries
+5 6068  Textile Testing & Quality Assuarance II Practical
+6 6069  Fashion Design & Apparel Manufacture - Practical
+7 6009  Project & Seminar 
+Semester 7

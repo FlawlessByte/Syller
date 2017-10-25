@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247997236817",
+    "firebase_url": "https://polytechnicsyllabus.firebaseio.com",
+    "project_id": "polytechnicsyllabus",
+    "storage_bucket": "polytechnicsyllabus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247997236817:android:492d0852b39eadfe",
+        "android_client_info": {
+          "package_name": "com.realinventor.jimmy.syller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247997236817-mpe1ug1csrlp8jnbg2lvbdofe94ate92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realinventor.jimmy.syller",
+            "certificate_hash": "ee69fb920bf87d4e0ee724af65130c07b6fe8182"
+          }
+        },
+        {
+          "client_id": "247997236817-5otlg3vqt3v7cnnh7k084ikifmq9j4ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6yWp9YC0AcT34rhuG898pNkX75j-J6cU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247997236817-5otlg3vqt3v7cnnh7k084ikifmq9j4ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

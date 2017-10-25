@@ -1,0 +1,60 @@
+Semester 1
+1 1001  English for Communication I
+2 1002  Engineering Mathematics I
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry I
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab I
+Semester 2
+1 2001  English for Communication II
+2 2002  Engineering Mathematics II
+3 2003  Engineering Physics II 
+4 2004  Engineering Chemistry II
+5 2101  Basic of Printing Processes
+6 2005-2  Engineering Graphics
+7 2008  Workshop Practice
+8 2007  Engineering Science Lab II
+9 2109  Basic of Printing Processes Lab
+10 2009  Life Skill
+Semester 3
+1 3101  Desk Top Publishing
+2 3103  Materials for Printing
+3 3102  Image Processing
+4 3104  Offset Printing
+5 3001  Environmental Science & Disaster Management
+6 3109  Desk Top Publishing Lab
+7 3108  Image Processing Lab
+8 3107  Offset Printing Lab
+Semester 4
+1 4104  Print Finishing Techniques
+2 4101  Digital pre-press
+3 4103  Flexography and Gravure Printing
+4 4102  Digital Printing
+5 4109  Print Finishing Techniques Lab
+6 4107  Digital pre-press Lab 
+7 4108  Master Preparation Lab
+8 4009-P  Mini Project
+Semester 5
+1 5001  Industrial Management & Safety
+2 5101  Packaging Techniques
+3 5102  Printing Machinery Maintenance 
+4 5105  Security Printing
+# 5103  Coating, Powdering and Drying
+# 5104  Electronic Publishing
+5 5109  Packaging Techniques Lab
+6 5108  Printing Machines I Lab
+7 5009  Industrial Training/Industrial Visit/Collaborative work
+8 6009  Project & Seminar 
+Semester 6
+1 6102  Quality Management & Standardization
+2 6101  Printing Press Management 
+3 6103  Specialized Printing Applications 
+4 6106  Printed Electronics
+# 6105  Present Printing Industry
+# 6104  Green Printing and Waste Management
+5 6108  Quality Management & Standardization Lab
+6 6109  Printing Machines II Lab
+7 6009  Project & Seminar 

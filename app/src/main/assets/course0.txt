@@ -1,0 +1,61 @@
+Semester 1
+1 1001  English for Communication
+2 1002  Engineering Mathematics
+3 1003  Engineering Physics I
+4 1004  Engineering Chemistry
+5 2005-1  Engineering Graphics
+6 1009  Health & Physical Education
+7 2008  Workshop Practice
+8 1008  Computing Fundamentals
+9 2007  Engineering Science Lab	
+Semester 2
+1 2001  English for Communication
+2 2002  Engineering Mathematics
+3 2003  Engineering Physics II
+4 2004  Engineering Chemistry II
+5 2181  Principles of Design
+6 2005-2  Engineering Graphics
+7 2189  Basic Arcitectural drawing & art Drawing
+8 2008  Workshop Practice
+9 2007  Engineering Science Lab II
+10 2009  Life Skill			
+Semester 3
+1 3013  Theory of Structures I
+2 3182  Surveying for Architecture
+3 3011  Construction Materials and Engineering
+4 3181  Climatology
+5 3001  Environmental Science & Disaster Management
+6 3183  Architectural Drawing I
+7 3188  Survey Practical
+8 3189  Model Making Workshop & Masonry Lab
+Semester 4
+1 4014  Theory of Structures II
+2 4183  Quantity Surevey I
+3 4181  History of Architecture I
+4 4182  Interior Design	A
+5 4186  Architectural Drawing II
+6 4187  Working Drawing I
+7 4188  CADD Lab I
+8 4189  Mini Project		
+Semester 5
+1 5012  Construction Management & Safety Engineering
+2 5015  Structural Design I
+3 5181  History of Architecture II
+4 5016  Cost Effective Construction & Green Building
+# 5184  Sustainable Architecture
+5 5182  Architectural Drawing III
+6 5183  Working Drawing II
+7 5189  CAD Lab - II
+8 5009  Industrial Training/Industrial Visit/Collaborative work
+9 6009  Project & Seminar	
+Semester 6
+1 6013  Structural Design II
+2 6181  Building Services
+3 6183  Town Planning
+4 6184  Modern Architecure
+# 6185  Traditional Architecture
+5 6182  Landscape Architecture
+6 6189  Advanced Computer Application - Lab
+7 6188  Construction and Building Services Lab
+8 6009  Project & Seminar
+Semester 7
